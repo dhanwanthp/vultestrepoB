@@ -1,11 +1,11 @@
-# xszxsaxs
+# jkklk
 
 ## Vulnerability Context
 
 ### Required Information
 - **CVE ID**: 
-- **CWE**: 
-- **Language**: 
+- **CWE**: SQL Injection
+- **Language**: Python
 - **Framework Version**: 
 - **Database**: 
 - **Server**: 
