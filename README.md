@@ -1,10 +1,10 @@
-# temp1-d2
+# temp1-d1
 
 ## Vulnerability Context
 
 ### Required Information
 - **CVE ID**: 
-- **CWE**: SQL Injection
+- **CWE**: 
 - **Language**: Python
 - **Framework Version**: 
 - **Database**: 
