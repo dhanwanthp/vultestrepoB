@@ -4,7 +4,7 @@
 
 ### Required Information
 - **CVE ID**: 
-- **CWE**: 
+- **CWE**: SQL Injection
 - **Language**: Python
 - **Framework Version**: 
 - **Database**: 
