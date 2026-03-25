@@ -5,9 +5,9 @@
 ### Required Information
 - **CVE ID**: 
 - **CWE**: SQL Injection
-- **Language**: Java
-- **Framework Version**: 3.2
-- **Database**: PostgreSQL
-- **Server**: Tomcat
-- **UI Framework**: Angular
-- **Template Type**: dynamic
+- **Language**: Python
+- **Framework Version**: 
+- **Database**: 
+- **Server**: 
+- **UI Framework**: 
+- **Template Type**: static
