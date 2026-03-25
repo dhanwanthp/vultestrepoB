@@ -288,7 +288,7 @@ C. Vulnerability Testing: [how to trigger]
 ### USER INPUT
 {
   "cveId": "",
-  "cweId": "",
+  "cweId": "SQL Injection",
   "language": "Python",
   "framework": " ",
   "database": "",
