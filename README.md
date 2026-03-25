@@ -10,4 +10,4 @@
 - **Database**: 
 - **Server**: 
 - **UI Framework**: 
-- **Template Type**: static
+- **Template Type**: dynamic
