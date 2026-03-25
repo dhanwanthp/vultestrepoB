@@ -4,10 +4,10 @@
 
 ### Required Information
 - **CVE ID**: 
-- **CWE**: 
-- **Language**: Python
-- **Framework Version**: 
-- **Database**: 
-- **Server**: 
-- **UI Framework**: 
-- **Template Type**: dynamic
+- **CWE**: SQL Injection
+- **Language**: Java
+- **Framework Version**: 3.2
+- **Database**: PostgreSQL
+- **Server**: Tomcat
+- **UI Framework**: Angular
+- **Template Type**: static
